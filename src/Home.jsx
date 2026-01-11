@@ -195,7 +195,7 @@ export default function Hero() {
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight">
             Hello, I’m{" "}
-            <span className="text-yellow-400 font-bold">
+            <span className="text-white font-bold">
               Devdatta Rokade
             </span>
           </h1>
